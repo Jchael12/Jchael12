@@ -18,4 +18,6 @@ I'm an aspiring software developer and mobile developer studying in college. I'm
 
 ### Stats
 
-![Jchael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jchael12&show_icons=true&theme=onedark)
+![Jchael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jchael12&show_icons=true&theme=gruvbox)
+
+#
