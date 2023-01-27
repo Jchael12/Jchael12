@@ -14,4 +14,8 @@ I'm an aspiring software developer and mobile developer studying in college. I'm
 <img align="left" alt="Dart" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
-![Jchael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jchael12&show_icons=true&theme=onedart)
+#
+
+### Stats
+
+![Jchael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jchael12&show_icons=true&theme=onedark)
