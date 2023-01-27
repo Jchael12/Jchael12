@@ -3,7 +3,7 @@
 
 **`Aspiring Software Developer/Mobile Developer`**
 
-I'm an aspiring software developer and mobile developer studying in college. I'm currently learning web dev and mobile dev. I fell in love with coding since I was on my highschool. It feels great to contribute in techworld...
+I'm a college student who hopes to become a software developer and mobile developer. Since I was in high school, I have been in love with coding. It's rewarding to contribute to the tech industry. All upcoming coding projects are being developed from scratch. 
 
 ---
 ### Languages and Tools 
@@ -13,6 +13,11 @@ I'm an aspiring software developer and mobile developer studying in college. I'm
 <img align="left" alt="Css" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Dart" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="VS Code" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Github" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Github" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+
 
 #
 
