@@ -1,7 +1,7 @@
 ### Jchael 
 
 
-**Aspiring Software Developer/Mobile Developer**
+**`Aspiring Software Developer/Mobile Developer`**
 
 I'm an aspiring software developer and mobile developer studying in college. I'm currently learning web dev and mobile dev. I fell in love with coding since I was on my highschool. It feels great to contribute in techworld...
 
