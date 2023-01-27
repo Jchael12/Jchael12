@@ -1,6 +1,6 @@
 ### Jchael 
 
-<!--
+
 **Aspiring Software Developer/Mobile Developer**
 
 Here are some ideas to get you started:
