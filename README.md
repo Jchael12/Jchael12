@@ -3,9 +3,7 @@
 
 **Aspiring Software Developer/Mobile Developer**
 
-Here are some ideas to get you started:
-
-- 🔭 I'm an aspiring software developer and mobile developer studying in college. I'm currently learning web dev and mobile dev. I fell in love with coding since I was on my highschool. It feels great to contribute in techworld...
+I'm an aspiring software developer and mobile developer studying in college. I'm currently learning web dev and mobile dev. I fell in love with coding since I was on my highschool. It feels great to contribute in techworld...
 
 ---
 ### Languages and Tools 
