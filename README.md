@@ -21,6 +21,7 @@ I'm a college student who hopes to become a software developer and mobile develo
 <img align="left" alt="Flutter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 
+
 ---
 ### Stats
 
