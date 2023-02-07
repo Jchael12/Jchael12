@@ -26,7 +26,4 @@ I'm a college student who hopes to become a software developer and mobile develo
 
 
 ![Jchael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jchael12&show_icons=true&theme=nightowl)
-
-# 
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jchael12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
