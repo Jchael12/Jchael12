@@ -29,4 +29,4 @@ I'm a college student who hopes to become a software developer and mobile develo
 
 # 
 ---
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jchael12&show_icons=true&locale=en&layout=compact" alt="jchael12" /></p>
