@@ -1,7 +1,7 @@
 ### ⭐ Jchael 
 
 
-**`Aspiring Software Developer/Mobile Developer`**
+**`Aspiring Software Engineer/Web Developer`**
 
 I'm a college student who hopes to become a software engineer and web developer. Since high school, I have been in love with coding. It's rewarding to contribute to the tech industry. All upcoming coding projects are being developed from scratch. 
 
