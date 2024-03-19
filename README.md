@@ -17,7 +17,7 @@ I'm a college student who hopes to become a software engineer and web developer.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-michael-abbas-40b5602a3/)
 
-[![twitter](https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://twitter.com/)
+[![twitter](https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/johnmichael.abbas/)
 
 ---
 ### Stats
