@@ -23,4 +23,4 @@ I'm a college student who hopes to become a software engineer and web developer.
 ### Stats
 
 
-![Jchael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jchael12&show_icons=true&theme=rose_pine)
+![Jchael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jchael12&show_icons=true&theme=tokyonight)
