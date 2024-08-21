@@ -7,7 +7,7 @@ I'm a college student who hopes to become a software engineer and web developer.
 
 ------------------------------------------- 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jchael12&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jchael12&layout=donut)](https://github.com/Jchael12/github-readme-stats)
 
 
 ### Languages and Tools
