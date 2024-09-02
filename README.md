@@ -3,7 +3,7 @@
 
 **`Aspiring Software Engineer/Web Developer`**
 
-I'm a college student who hopes to become a software engineer and web developer. I have been in love with coding, it's rewarding to contribute to the tech industry. All upcoming coding projects are being developed from scratch. 
+I'm a Fresh Graduate who hopes to become a Software Engineer and Web Developer. I have been in love with coding, it's rewarding to contribute to the tech industry. All upcoming coding projects are being developed from scratch. 
 
 ------------------------------------------- 
 
