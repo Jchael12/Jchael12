@@ -22,5 +22,6 @@ I'm a Fresh Graduate who hopes to become a Software Engineer and Web Developer. 
 ---
 ### Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jchael12&layout=compact)
 
 ![Jchael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jchael12&show_icons=true&theme=tokyonight)
