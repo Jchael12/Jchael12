@@ -22,7 +22,7 @@ I'm a Fresh Graduate who hopes to become a Software Engineer and Web Developer. 
 ---
 ### Stats
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Jchael12&layout=compact&theme=nightowl'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Jchael12&layout=compact&theme=rosepine'/>
 
 
-![Jchael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jchael12&show_icons=true&theme=nightowl)
+![Jchael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jchael12&show_icons=true&theme=rosepine)
