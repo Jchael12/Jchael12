@@ -1,9 +1,9 @@
 ### ⭐ Jchael 
 
 
-**`Software Engineer/Web Developer`**
+**`Software Engineer`**
 
-I'm a Software Engineer and Web Developer. I have been in love with coding, it's rewarding to contribute to the tech industry. All upcoming coding projects are being developed from scratch. 
+I'm a Software Engineer and Designer. I have been in love with coding and designing, it's rewarding to contribute to the tech industry. All upcoming coding projects are being developed from scratch. 
 
 ------------------------------------------- 
 
