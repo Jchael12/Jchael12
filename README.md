@@ -3,7 +3,7 @@
 
 **`Software Engineer`**
 
-I'm a Web Developer and Designer. I have been in love with coding and designing, it's rewarding to contribute to the tech industry. All upcoming coding projects are being developed from scratch. 
+A Web Developer and Designer, I have a deep passion for coding and design. It's incredibly fulfilling to contribute to the tech industry, where creativity meets innovation. Currently, I'm focused on developing all upcoming coding projects from scratch, allowing me to bring fresh ideas and solutions to life.
 
 ------------------------------------------- 
 
